@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C251611B22493AF7001D6069 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C251611A22493AF7001D6069 /* AppDelegate.swift */; };
-		C251611D22493AF7001D6069 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C251611C22493AF7001D6069 /* ViewController.swift */; };
-		C251612022493AF7001D6069 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C251611E22493AF7001D6069 /* Main.storyboard */; };
-		C251612222493AFA001D6069 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C251612122493AFA001D6069 /* Assets.xcassets */; };
-		C251612522493AFA001D6069 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C251612322493AFA001D6069 /* LaunchScreen.storyboard */; };
+		C286C320224DB12100564F27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C286C31F224DB12100564F27 /* AppDelegate.swift */; };
+		C286C322224DB12100564F27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C286C321224DB12100564F27 /* ViewController.swift */; };
+		C286C325224DB12100564F27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C286C323224DB12100564F27 /* Main.storyboard */; };
+		C286C327224DB12300564F27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C286C326224DB12300564F27 /* Assets.xcassets */; };
+		C286C32A224DB12300564F27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C286C328224DB12300564F27 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C251611722493AF7001D6069 /* btap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = btap.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C251611A22493AF7001D6069 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C251611C22493AF7001D6069 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C251611F22493AF7001D6069 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C251612122493AFA001D6069 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C251612422493AFA001D6069 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C251612622493AFA001D6069 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C286C31C224DB12100564F27 /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C286C31F224DB12100564F27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C286C321224DB12100564F27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C286C324224DB12100564F27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C286C326224DB12300564F27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C286C329224DB12300564F27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C286C32B224DB12300564F27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C251611422493AF7001D6069 /* Frameworks */ = {
+		C286C319224DB12100564F27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C251610E22493AF7001D6069 = {
+		C286C313224DB12100564F27 = {
 			isa = PBXGroup;
 			children = (
-				C251611922493AF7001D6069 /* btap */,
-				C251611822493AF7001D6069 /* Products */,
+				C286C31E224DB12100564F27 /* calculator */,
+				C286C31D224DB12100564F27 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C251611822493AF7001D6069 /* Products */ = {
+		C286C31D224DB12100564F27 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C251611722493AF7001D6069 /* btap.app */,
+				C286C31C224DB12100564F27 /* calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C251611922493AF7001D6069 /* btap */ = {
+		C286C31E224DB12100564F27 /* calculator */ = {
 			isa = PBXGroup;
 			children = (
-				C251611A22493AF7001D6069 /* AppDelegate.swift */,
-				C251611C22493AF7001D6069 /* ViewController.swift */,
-				C251611E22493AF7001D6069 /* Main.storyboard */,
-				C251612122493AFA001D6069 /* Assets.xcassets */,
-				C251612322493AFA001D6069 /* LaunchScreen.storyboard */,
-				C251612622493AFA001D6069 /* Info.plist */,
+				C286C31F224DB12100564F27 /* AppDelegate.swift */,
+				C286C321224DB12100564F27 /* ViewController.swift */,
+				C286C323224DB12100564F27 /* Main.storyboard */,
+				C286C326224DB12300564F27 /* Assets.xcassets */,
+				C286C328224DB12300564F27 /* LaunchScreen.storyboard */,
+				C286C32B224DB12300564F27 /* Info.plist */,
 			);
-			path = btap;
+			path = calculator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C251611622493AF7001D6069 /* btap */ = {
+		C286C31B224DB12100564F27 /* calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C251612922493AFA001D6069 /* Build configuration list for PBXNativeTarget "btap" */;
+			buildConfigurationList = C286C32E224DB12300564F27 /* Build configuration list for PBXNativeTarget "calculator" */;
 			buildPhases = (
-				C251611322493AF7001D6069 /* Sources */,
-				C251611422493AF7001D6069 /* Frameworks */,
-				C251611522493AF7001D6069 /* Resources */,
+				C286C318224DB12100564F27 /* Sources */,
+				C286C319224DB12100564F27 /* Frameworks */,
+				C286C31A224DB12100564F27 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = btap;
-			productName = btap;
-			productReference = C251611722493AF7001D6069 /* btap.app */;
+			name = calculator;
+			productName = calculator;
+			productReference = C286C31C224DB12100564F27 /* calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C251610F22493AF7001D6069 /* Project object */ = {
+		C286C314224DB12100564F27 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1010;
-				LastUpgradeCheck = 1010;
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = TRANVINHDAT;
 				TargetAttributes = {
-					C251611622493AF7001D6069 = {
-						CreatedOnToolsVersion = 10.1;
+					C286C31B224DB12100564F27 = {
+						CreatedOnToolsVersion = 10.2;
 					};
 				};
 			};
-			buildConfigurationList = C251611222493AF7001D6069 /* Build configuration list for PBXProject "btap" */;
+			buildConfigurationList = C286C317224DB12100564F27 /* Build configuration list for PBXProject "calculator" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = C251610E22493AF7001D6069;
-			productRefGroup = C251611822493AF7001D6069 /* Products */;
+			mainGroup = C286C313224DB12100564F27;
+			productRefGroup = C286C31D224DB12100564F27 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C251611622493AF7001D6069 /* btap */,
+				C286C31B224DB12100564F27 /* calculator */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C251611522493AF7001D6069 /* Resources */ = {
+		C286C31A224DB12100564F27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C251612522493AFA001D6069 /* LaunchScreen.storyboard in Resources */,
-				C251612222493AFA001D6069 /* Assets.xcassets in Resources */,
-				C251612022493AF7001D6069 /* Main.storyboard in Resources */,
+				C286C32A224DB12300564F27 /* LaunchScreen.storyboard in Resources */,
+				C286C327224DB12300564F27 /* Assets.xcassets in Resources */,
+				C286C325224DB12100564F27 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C251611322493AF7001D6069 /* Sources */ = {
+		C286C318224DB12100564F27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C251611D22493AF7001D6069 /* ViewController.swift in Sources */,
-				C251611B22493AF7001D6069 /* AppDelegate.swift in Sources */,
+				C286C322224DB12100564F27 /* ViewController.swift in Sources */,
+				C286C320224DB12100564F27 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C251611E22493AF7001D6069 /* Main.storyboard */ = {
+		C286C323224DB12100564F27 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C251611F22493AF7001D6069 /* Base */,
+				C286C324224DB12100564F27 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C251612322493AFA001D6069 /* LaunchScreen.storyboard */ = {
+		C286C328224DB12300564F27 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C251612422493AFA001D6069 /* Base */,
+				C286C329224DB12300564F27 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C251612722493AFA001D6069 /* Debug */ = {
+		C286C32C224DB12300564F27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -213,7 +213,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -223,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		C251612822493AFA001D6069 /* Release */ = {
+		C286C32D224DB12300564F27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -268,7 +268,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -278,36 +278,36 @@
 			};
 			name = Release;
 		};
-		C251612A22493AFA001D6069 /* Debug */ = {
+		C286C32F224DB12300564F27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = btap/Info.plist;
+				INFOPLIST_FILE = calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.vdat.btap;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vdat.calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		C251612B22493AFA001D6069 /* Release */ = {
+		C286C330224DB12300564F27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = btap/Info.plist;
+				INFOPLIST_FILE = calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.vdat.btap;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vdat.calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -315,25 +315,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C251611222493AF7001D6069 /* Build configuration list for PBXProject "btap" */ = {
+		C286C317224DB12100564F27 /* Build configuration list for PBXProject "calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C251612722493AFA001D6069 /* Debug */,
-				C251612822493AFA001D6069 /* Release */,
+				C286C32C224DB12300564F27 /* Debug */,
+				C286C32D224DB12300564F27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C251612922493AFA001D6069 /* Build configuration list for PBXNativeTarget "btap" */ = {
+		C286C32E224DB12300564F27 /* Build configuration list for PBXNativeTarget "calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C251612A22493AFA001D6069 /* Debug */,
-				C251612B22493AFA001D6069 /* Release */,
+				C286C32F224DB12300564F27 /* Debug */,
+				C286C330224DB12300564F27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C251610F22493AF7001D6069 /* Project object */;
+	rootObject = C286C314224DB12100564F27 /* Project object */;
 }

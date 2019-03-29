@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  btap
+//  calculator
 //
-//  Created by TRANVINHDAT on 3/25/19.
+//  Created by TRANVINHDAT on 3/29/19.
 //  Copyright © 2019 TRANVINHDAT. All rights reserved.
 //
 
